@@ -1,0 +1,13 @@
+{
+  "name": "cf.freewayapps.stopwatch",
+  "version": "1.0.0",
+  "displayName": "StopWatch",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~6.3.0"
+  }
+}

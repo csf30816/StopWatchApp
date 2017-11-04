@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cf.freewayapps.stopwatch" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>StopWatch</name>
+    <description>
+        With StopWatch you are ready to time aspects of your life in style.
+    </description>
+    <author email="csf30816@yandex.com" href="http://freewayapps.cf">
+        Elijah Porter
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <engine name="android" spec="~6.3.0" />
+</widget>
